@@ -20,6 +20,53 @@ Keep the above lead paragraph first. Do not put an image, a heading, or any othe
 
 ## Main Story
 
+The first Hokona Hall at the University of New Mexico: A history
+The history of the first Hokona Hall reflects the early University of New Mexico’s efforts to provide housing for its growing student population, particularly women. Built in the early twentieth century, the original residence hall preceded the better-known Pueblo Revival-style building that still stands on the university’s main campus. Although the original structure was demolished in the early 1960s, its name and institutional legacy survived in the newer Hokona Hall.
+From early campus to student residence, 1906–1923
+The University of New Mexico, founded on February 28, 1889, began its operations with limited facilities on its Albuquerque campus. As enrollment and the university’s academic offerings grew, the institution gradually added buildings to accommodate students and their expanding needs.
+
+The University of New Mexico
++1
+The first Hokona Hall is generally identified in building histories as a structure dating to 1906, although sources differ in how they describe its original construction and subsequent use. A secondary compilation of UNM buildings lists Hokona Hall as built in 1906 and demolished in 1952, while UNM’s own historic-preservation documentation describes the earlier Hokona as having been demolished in the early 1960s. This discrepancy is important: the precise demolition date should not be treated as settled without consulting original university records.
+
+Newikis
++1
+A more specific milestone appears in the history of women’s housing. The Trost Society, an organization documenting historic architecture in the Southwest, identifies the building as having been erected in 1923 under the name New Residential Hall for Women. It attributes the design to the architectural firm Trost & Trost. This account suggests that 1923 marks a significant point in the building’s development as a dedicated women’s residence, even though other building lists assign the structure an earlier construction date.
+
+Trost Society
++1
+The distinction between the building’s earliest date and its establishment as a women’s residence matters. It suggests that the history of Hokona Hall was not simply a story of constructing a new building, but also one of adapting campus facilities to changing residential needs.
+Life inside the women’s residence
+As a women’s dormitory, Hokona served a population whose access to university life was shaped in part by the availability of safe, on-campus housing. The residence offered more than sleeping quarters: it formed part of the social environment in which women students lived and built relationships with fellow students.
+One particularly interesting detail comes from UNM Lobo Gardens, a university-associated student gardening initiative. Its historical research reports that the earlier, formerly all-women’s dormitory had a rooftop community garden shared by residents. The account does not provide the garden’s exact opening date, but it offers a glimpse of everyday life in the residence beyond the formal academic setting.
+
+UNM Lobo Gardens
+The available sources do not identify individual residents, dormitory directors, or particular social events from the first hall’s earliest years with sufficient confidence to name them here. University building records and architectural histories provide a firmer foundation for the structure’s chronology than for the personal experiences of the women who lived there.
+The transition to a new Hokona Hall
+By the mid-twentieth century, UNM faced growing demand for student accommodation. The university’s subsequent investment in residence halls reflected the expansion of higher education and the development of a larger residential campus.
+In 1956, a new building opened under the name Hokona Hall, according to UNM’s historic-preservation plan and the Trost Society’s account. The replacement structure was designed in the regional Pueblo-inspired architectural tradition associated with the university’s campus identity. The new hall was intended to meet contemporary housing needs while continuing the earlier residence’s institutional role.
+
+historicpreservation.unm.edu
++1
+The relationship between the two buildings is not entirely straightforward in the surviving online sources. UNM’s preservation plan says the 1956 women’s dormitory was named after the first Hokona Hall, which had been demolished in the early 1960s. That chronology conflicts with the secondary building list that dates the first hall’s demolition to 1952. It also raises questions about the sequence of the naming and replacement process. The safest conclusion is that the earlier structure preceded the 1956 hall, but that the exact demolition date and administrative details require verification in original records.
+
+historicpreservation.unm.edu
++1
+Historical significance
+The first Hokona Hall matters because it represents an early chapter in UNM’s development as a residential university. Its association with women’s housing highlights a practical aspect of educational access: a university’s ability to accommodate students affected who could attend and participate in campus life.
+The rooftop garden also suggests that the residence supported shared activities and community life, not merely accommodation. Although the original building disappeared, its name carried forward into the later hall, preserving a link between two generations of campus housing.
+For a more definitive architectural and institutional chronology, the most promising reference is Van Dorn Hooker and Melissa Howard’s Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889–1989 (UNM Press, 2000). The university’s Facilities Planning and Physical Plant Department records, held by the Center for Southwest Research and Special Collections, are another important resource for building dates, architects, contracts, and related documentation.
+
+Google Books
++1
+Sources and research notes
+UNM, Heritage Preservation Plan — institutional source for the 1956 building and the account of the original hall’s demolition. Read the preservation plan .
+Mark Stone, Trost Society, “Hokona Hall at UNM” — architectural history identifying the New Residential Hall for Women and its 1923 date. Read the article .
+UNM Lobo Gardens, “Hokona Hall Garden” — source for the reported rooftop garden and communal use of the earlier women’s residence. Read the history .
+Van Dorn Hooker and Melissa Howard, Only in New Mexico (2000) — major architectural history of UNM, covering the university’s first century. Bibliographic record .
+UNM Center for Southwest Research, Facilities Planning and Physical Plant Department Records — archival collection likely to contain primary documentation. Research guide .
+
+
 Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
 
 Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
